@@ -18,7 +18,7 @@
  
  • 🤝 Estou disponível para freelancer.
  
- • :books: Atualmente estou aprendendo sobre front-end no <strong> DevClub <strong/> .
+ • 📚 Atualmente estou aprendendo sobre front-end no <a href="https://rodolfomori.com.br/devclub/">DevClub</a>
  
  • 📫 sinta-se a vontade para entrar em contato comigo : moraesbonfim@outlook.com
   
